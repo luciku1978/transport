@@ -1,0 +1,3 @@
+nume,varsta,telefon
+alina,30,0745512415
+gelu,35,0215555545
